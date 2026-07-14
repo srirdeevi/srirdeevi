@@ -141,6 +141,13 @@ Research interests:
 * AI-enabled Enterprise Systems
 * Resilient Distributed Systems
 
+## 🏆 Certifications & Professional Development
+
+- AWS Certified Devops Professional
+- AWS Certified Solutions Architect
+- Project Management Professional
+- Oracle Certified Java Developer
+
 ---
 
 ## 📫 Connect With Me
